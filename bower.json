@@ -1,0 +1,27 @@
+{
+    "name": "custom-n3-charts",
+    "version": "2.0.28",
+    "homepage": "http://n3-charts.github.io/line-chart",
+    "description": "This is just a custom version of n3-charts version 2.0.28.",
+    "main": [
+      "build/LineChart.css",
+      "build/LineChart.js"
+    ],
+    "authors": [
+      "n3-charts"
+    ],
+    "dependencies": {
+      "angular": ">=1.3.1 <1.6"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ederfranco23/custom-n3-charts.git"
+    },
+    "license": "MIT",
+    "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "test"
+    ]
+}
